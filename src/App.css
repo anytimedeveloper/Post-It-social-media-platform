@@ -1,0 +1,71 @@
+.appcontainer{
+  display: flex;
+}
+.content{
+  width: 100%;
+}
+
+.post-card{
+  margin: 20px;
+}
+
+.tags{
+  margin:5px;
+}
+
+.reactions{
+  padding: 7px 19px;
+  margin-top: 15px;
+}
+
+.create-post{
+  width:80%;
+  margin-top: 30px;
+  margin-left: 70px;
+}
+
+.noposts{
+  text-align: center;
+  margin-top: 30px;
+}
+.noposts>h1{
+  margin-bottom: 50px;
+}
+
+.loading-spinner{
+  margin: 10rem;
+}
+.sticky-left {
+  position: -webkit-sticky; /* For Safari */
+  position: sticky;
+  top: 0;
+  left: 0;
+  height: 100vh; /* Full height */
+  z-index: 1000; /* Ensure it is above other content */
+}
+
+.gif{
+  width: 22rem;
+}
+
+.imageshow{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+ 
+
+}
+
+.flexing1{
+  flex: 0.1;
+}
+.flexing2{
+  flex: 0.8;
+  padding-left: 6rem;
+  padding-top: 2rem;
+  position: sticky;
+  top: 0;
+  left: 0;
+  height: 100vh; /* Full height */
+  z-index: 1000; /* Ensure it is above other content */
+}
