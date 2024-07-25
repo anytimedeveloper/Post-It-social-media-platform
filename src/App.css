@@ -57,12 +57,12 @@
 }
 
 .flexing1{
-  flex: 0.1;
+  flex: 0.9;
 }
 .flexing2{
   flex: 0.8;
-  padding-left: 6rem;
-  padding-top: 2rem;
+  padding-left: 5rem;
+  padding-top: 3rem;
   position: sticky;
   top: 0;
   left: 0;
